@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sibbenanthan K</h1>
 <h3 align="center">Creative Full-stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 
 - 🔭 I’m currently working on **Logistics based application**
 
@@ -21,4 +20,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sibbe23&show_icons=true&locale=en&layout=compact" alt="sibbe23" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sibbe23&show_icons=true&locale=en" alt="sibbe23" /></p>
