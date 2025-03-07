@@ -2,7 +2,7 @@
 <h3 align="center">Creative Full-stack Developer</h3>
 
 
-- 🔭 I’m currently working **Transport field related project**
+- 🔭 I’m currently working **Shipping Industry based project**
 
 - 🌱 I’m currently learning **Next.js**
 
